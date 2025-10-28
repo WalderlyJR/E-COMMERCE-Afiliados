@@ -1,9 +1,9 @@
 const produtos = [
   {
-    nome: "Curso de Marketing Digital",
+    nome: "Curso de Inglês",
     descricao: "Aprenda estratégias reais para aumentar suas vendas online.",
     imagem: "assets/img/ingles.png",
-    link: "https://meulinkdeafiliado.com/curso-marketing",
+    link: "https://go.hotmart.com/H102652282A",
     tipo: "digital"
   },
   {
