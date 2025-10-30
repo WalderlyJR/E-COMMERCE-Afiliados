@@ -130,12 +130,15 @@ footer {
 }
 
 .slide img {
-  width: 100%;       /* ocupa 100% da largura do container */
-  height: 420px;     /* altura fixa */
-  object-fit: cover; /* preenche todo o espaço, cortando o que ultrapassar */
-  margin: 0;         /* remove centralização */
-  display: block;    /* remove espaçamento em linha */
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Mostra a imagem inteira, sem cortar */
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+  background-color: #fff; /* Fundo branco limpo como o Mercado Livre */
 }
+
 /* ===== MENU RESPONSIVO ===== */
 .menu-toggle {
   display: none;
