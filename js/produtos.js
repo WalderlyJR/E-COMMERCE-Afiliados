@@ -8,7 +8,7 @@ const produtos = [
   },
   {
     nome: "Samsung Galaxy A05s 128 GB ",
-    descricao: "Dual SIM Tela Infinita de 6,7'' Cor Prata 6 GB RAMA05s 4G 128GB 6GB RAM Câmera Traseira Tripla 50MP + 2MP + 2MP + Selfie 13MP T",
+    descricao: "Dual SIM Tela Infinita de 6,7'' Cor Prata 6 GB RAMA05s 4G 128GB 6GB RAM Câmera Traseira Tripla 50MP + 2MP + 2MP + Selfie 13MP ",
     imagem: "assets/img/pratagalaxy.webp",
     link: "https://mercadolivre.com/sec/18prU7b",
     tipo: "fisico"
